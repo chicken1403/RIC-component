@@ -1,0 +1,2 @@
+# RIC-component
+Announcement Componenet
